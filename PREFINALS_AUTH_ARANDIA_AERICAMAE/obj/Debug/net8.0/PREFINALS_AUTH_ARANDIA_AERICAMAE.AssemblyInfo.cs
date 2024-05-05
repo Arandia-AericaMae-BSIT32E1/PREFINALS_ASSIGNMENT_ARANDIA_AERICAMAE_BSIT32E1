@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PREFINALS_AUTH_ARANDIA_AERICAMAE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e371f7a57acb9169397139240b1af89987f5064")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcf36e8dd2fb29c566ae527e2ae45e6221c8d05e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PREFINALS_AUTH_ARANDIA_AERICAMAE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PREFINALS_AUTH_ARANDIA_AERICAMAE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
